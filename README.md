@@ -65,14 +65,24 @@
 
 ---
 
-
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/sathish1433"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="40"/></a>
-  <a href="https://www.linkedin.com/in/sathishanandhan"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40"/></a>
-  <a href="mailto:sathish.anandhan@zohomail.in"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gmail.svg" width="40"/></a>
-   <a href="https://asbait.netlify.app"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/globe.svg" width="40"/></a>
+  <a href="https://github.com/sathish1433">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="40"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/sathishanandhan">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40"/>
+  </a>
+
+  <a href="mailto:sathish.anandhan@zohomail.in">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/minutemailer.svg" width="40"/>
+  </a>
+
+  <a href="https://asbait.netlify.app">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/globe.svg" width="40"/>
+  </a>
 </p>
 
 ---
