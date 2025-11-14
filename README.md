@@ -1,72 +1,95 @@
 <h1 align="center">Hi 👋, I'm Sathish</h1>
-<h3 align="center">DevOps & Cloud Engineer | Linux | Kubernetes </h3>
+<h3 align="center">DevOps & Cloud Engineer | Kubernetes | AWS | Automation</h3>
 
 ---
 
-## 🚀 About Me
-- 🔧 DevOps Engineer passionate about automation, cloud architecture, and infrastructure.
-- ☁️ Hands-on with AWS, Kubernetes, Docker, CI/CD, monitoring, and microservices.
-- 🐧 Strong background in Linux, shell scripting, and configuration management.
-- 📚 Always learning and building real-time projects to grow as an engineer.
+<p align="center">
+  <em>Building scalable cloud infrastructures, automating everything, and designing production-ready systems.</em>
+</p>
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🌟 About Me
 
-### ☁️ **Cloud & DevOps**
-- **AWS** (EC2, S3, IAM, VPC, EBS, EFS, Lambda, Auto Scaling, Load Balancers)
-- **Docker**
-- **Kubernetes** – Deployments, StatefulSets, Services, Ingress, PV/PVC, StorageClass, Probes, Taints/Tolerations, Affinity, 
-- **Helm**
-
-### 🔄 **CI/CD & Automation**
-- **Jenkins**
-- **SonarQube**, **Nexus**, **Maven**
-- **Ansible** (Automation for LAMP, NFS, Tomcat, Nginx)
-- **Python (Boto3)** for AWS automation
-
-### 🌐 **WebServers & application Servers**
-- **Nginx**, **Apache**
--  **Apache Tomcat**
-
-### 🛠️ **Tools**
-- **Git**, GitHub  
-- **NewRelic**, NewRelic 
+- 🌍 Based in **Bangalore, India**
+- 🧠 Currently deep-diving into **Kubernetes, DevOps, and Cloud Architecture**
+- 🚀 Passionate about **Automation, Infrastructure as Code, Containers**
+- 🤝 Open to collaborating on **DevOps / Cloud / Automation Projects**
+- 📫 Reach me: **sathish.anandhan@zohomail.in**
+- 🌐 Portfolio: **https://asbait.netlify.app**
+- 💼 LinkedIn: **https://www.linkedin.com/in/sathishanandhan**
 
 ---
 
-## 📂 Top Repositories
+## 🛠️ Skills & Tools
 
-### 🔹 **AWS Automation with Boto3**
-📌 Automating EC2, S3, IAM, and more using Python  
-🔗 **Repo:** https://github.com/sathish1433/boto3_aws_automation
+<div style="display: flex; flex-wrap: wrap; gap: 15px;">
+  
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="45" title="Linux"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="45" title="AWS"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="45" title="Docker"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg" width="45" title="Kubernetes"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ansible-colored.svg" width="45" title="Ansible"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="45" title="Python"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bash-colored.svg" width="45" title="Bash"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nginx-colored.svg" width="45" title="Nginx"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/apache-colored.svg" width="45" title="Apache"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="45" title="Git"/>
+
+</div>
 
 ---
+
+## 📦 Top Projects
+
+<div align="center">
+
+### 🔹 **AWS Automation with Python (Boto3)**
+<a href="https://github.com/sathish1433/boto3_aws_automation">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=sathish1433&repo=boto3_aws_automation&title_color=00d4ff&text_color=ffffff&icon_color=00d4ff&bg_color=0d1117&hide_border=true"/>
+</a>
 
 ### 🔹 **Python Flask CI/CD Pipeline**
-📌 Fully automated CI/CD pipeline using Jenkins, Slack, and Docker  
-🔗 **Repo:** https://github.com/sathish1433/python_app_cicd
+<a href="https://github.com/sathish1433/python_app_cicd">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=sathish1433&repo=python_app_cicd&title_color=00d4ff&text_color=ffffff&icon_color=00d4ff&bg_color=0d1117&hide_border=true"/>
+</a>
+
+### 🔹 **Nginx Reverse Proxy & Deployment**
+<a href="https://github.com/sathish1433/nginx">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=sathish1433&repo=nginx&title_color=00d4ff&text_color=ffffff&icon_color=00d4ff&bg_color=0d1117&hide_border=true"/>
+</a>
+
+### 🔹 **Jenkins CLI Automation**
+<a href="https://github.com/sathish1433/JENKINS-CLI">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=sathish1433&repo=JENKINS-CLI&title_color=00d4ff&text_color=ffffff&icon_color=00d4ff&bg_color=0d1117&hide_border=true"/>
+</a>
+
+</div>
 
 ---
 
-### 🔹 **Nginx Deployments & Configurations**
-📌 Nginx sample setup and reverse proxy configuration  
-🔗 **Repo:** https://github.com/sathish1433/nginx
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=sathish1433&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=sathish1433&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
-### 🔹 **Jenkins CLI Project**
-📌 Jenkins automation using Jenkins Command-Line Interface  
-🔗 **Repo:** https://github.com/sathish1433/JENKINS-CLI
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/sathish1433"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="40"/></a>
+  <a href="https://www.linkedin.com/in/sathishanandhan"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40"/></a>
+  <a href="mailto:sathish.anandhan@zohomail.in"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gmail.svg" width="40"/></a>
+</p>
 
 ---
 
-## 🔗 Connect with Me
-
-- 💼 **LinkedIn:** https://www.linkedin.com/in/sathishanandhan  
-- 📧 **Email:** sathish.anandhan@zohomail.in  
-- 🌐 **Portfolio:** https://asbait.netlify.app  
-
----
-
-⭐ **Thanks for visiting! Check out my repositories and feel free to contribute 😊**
+<p align="center">
+⭐ Thanks for visiting my profile! Let's build something awesome together.
+</p>
