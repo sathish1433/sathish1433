@@ -2,12 +2,12 @@
 <h3 align="center">DevOps & Cloud Engineer | AWS | Kubernetes | Automation Enthusiast</h3>
 
 ---
-
 <h1 align="center">🚀 About Me</h1>
-- 🌍 Based in **Bangalore, India**
-- 🧠 Currently deep-diving into **Kubernetes, DevOps, and Cloud Architecture**
-- 🚀 Passionate about **Automation, Infrastructure as Code, Containers**
-- 🤝 Open to collaborating on **DevOps / Cloud / Automation Projects**
+
+- 🌍 Based in **Bangalore, India**  
+- 🧠 Currently deep-diving into **Kubernetes, DevOps, and Cloud Architecture**  
+- 🚀 Passionate about **Automation, Infrastructure as Code, and Containers**  
+- 🤝 Open to collaborating on **DevOps, Cloud, and Automation Projects**  
 
 ---
 
