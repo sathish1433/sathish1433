@@ -69,7 +69,7 @@
 
 <p align="center">
   <a href="https://github.com/sathish1433">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="40"/>
+    <img src="https://cdn-icons-png.flaticon.com/128/733/733553.png" width="40"/>
   </a>
 
   <a href="https://www.linkedin.com/in/sathishanandhan">
