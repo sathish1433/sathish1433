@@ -64,23 +64,22 @@
 </table>
 
 ---
+## 🔗 Social Profiles
 
-## 🔗 Social Profiles  
-<p align="center" style="margin-top: 40px; margin-bottom: 40px;">
+<p align="center">
+  <a href="https://github.com/sathish1433">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45">
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="https://github.com/sathish1433">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="40" height="40" style="margin: 0 20px;" />
-</a>
+  <a href="https://www.linkedin.com/in/sathishanandhan">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="45" height="45">
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="https://www.linkedin.com/in/sathishanandhan">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="40" style="margin: 0 20px;" />
-</a>
-
-<a href="mailto:sathish.anandhan@zohomail.in">
-<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" height="40" style="margin: 0 20px;" />
-</a>
-
+  <a href="mailto:sathish.anandhan@zohomail.in">
+    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="45" height="45">
+  </a>
 </p>
+
 
 ---
 
