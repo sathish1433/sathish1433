@@ -30,40 +30,41 @@
 </p>
 
 ---
+
 ## 📦 Top Repositories
 
 <table>
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/sathish1433/boto3_aws_automation">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sathish1433&repo=boto3_aws_automation&theme=react&show_owner=false&hide=description" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sathish1433&repo=boto3_aws_automation&theme=react&show_owner=false&description_lines=2" />
       </a>
     </td>
 
     <td width="50%" align="center">
       <a href="https://github.com/sathish1433/python_app_cicd">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sathish1433&repo=python_app_cicd&theme=react&show_owner=false&hide=description" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sathish1433&repo=python_app_cicd&theme=react&show_owner=false&description_lines=2" />
       </a>
     </td>
   </tr>
 
-  <!-- Row spacing -->
-  <tr><td colspan="2"><br><br></td></tr>
+  <tr><td colspan="2"><br></td></tr> <!-- row spacing -->
 
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/sathish1433/nginx">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sathish1433&repo=nginx&theme=react&show_owner=false&hide=description" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sathish1433&repo=nginx&theme=tokyonight&description_lines=2" />
       </a>
     </td>
 
     <td width="50%" align="center">
       <a href="https://github.com/sathish1433/JENKINS-CLI">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sathish1433&repo=JENKINS-CLI&theme=react&show_owner=false&hide=description" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sathish1433&repo=JENKINS-CLI&theme=react&show_owner=false&description_lines=2" />
       </a>
     </td>
   </tr>
 </table>
+
 
 
 
