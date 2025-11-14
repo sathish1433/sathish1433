@@ -71,7 +71,7 @@
     <img src="https://cdn-icons-png.flaticon.com/128/733/733553.png" width="40"/>
   </a>
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
 
   <a href="https://www.linkedin.com/in/sathishanandhan">
     <img src="https://cdn-icons-png.flaticon.com/128/1384/1384072.png" width="40"/>
