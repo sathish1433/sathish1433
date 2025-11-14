@@ -64,31 +64,16 @@
 </table>
 
 ---
-## 🔗 Social Profiles
+
+
+## 🤝 Connect With Me
 
 <p align="center">
-  <!-- GitHub -->
-  <a href="https://github.com/sathish1433" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" 
-         width="45"
-         style="filter: invert(1); margin: 0 30px;" />
-  </a>
-
-  <!-- LinkedIn -->
-  <a href="https://linkedin.com/in/sathishanandhan" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
-         width="45"
-         style="margin: 0 30px;" />
-  </a>
-
-  <!-- Gmail -->
-  <a href="mailto:sathish.anandhan@zohomail.in" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" 
-         width="45"
-         style="margin: 0 30px;" />
-  </a>
+  <a href="https://github.com/sathish1433"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="40"/></a>
+  <a href="https://www.linkedin.com/in/sathishanandhan"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40"/></a>
+  <a href="mailto:sathish.anandhan@zohomail.in"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gmail.svg" width="40"/></a>
+   <a href="https://asbait.netlify.app"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/globe.svg" width="40"/></a>
 </p>
-
 
 ---
 
