@@ -77,7 +77,7 @@
   </a>
 
   <a href="mailto:sathish.anandhan@zohomail.in">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/minutemailer.svg" width="40"/>
+    <img src="https://cdn-icons-png.flaticon.com/128/3925/3925147.png" width="40"/>
   </a>
 
   <a href="https://asbait.netlify.app">
