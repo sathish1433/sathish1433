@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sathish</h1>
-<h3 align="center">DevOps & Cloud Engineer | AWS | Kubernetes | Automation Enthusiast</h3>
+<h3 align="center">DevOps & Cloud Engineer | AWS | Kubernetes</h3>
 
 ---
 <h1 align="center">🚀 About Me</h1>
