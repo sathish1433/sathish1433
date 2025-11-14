@@ -3,13 +3,13 @@
 
 ---
 
-## 🚀 About Me  
-- 🔧 DevOps & Cloud Engineer passionate about automation and scalable infra  
-- ☁️ Experienced with AWS, Kubernetes, Docker, CI/CD, GitOps  
-- 🐧 Linux lover — scripting & automation  
-- 🌐 Portfolio: https://asbait.netlify.app  
-- 💼 LinkedIn: https://www.linkedin.com/in/sathishanandhan  
-- 📧 Email: sathish.anandhan@zohomail.in  
+## 🚀 About Me
+- 🔧 DevOps Engineer passionate about automation, cloud architecture, and infrastructure.
+- ☁️ Hands-on with AWS, Kubernetes, Docker, CI/CD, monitoring, and microservices.
+- 🐧 Strong background in Linux, shell scripting, and configuration management.
+- 📚 Always learning and building real-time projects to grow as an engineer.
+
+---
 
 ---
 
