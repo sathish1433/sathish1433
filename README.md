@@ -55,7 +55,7 @@
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/sathish1433/JENKINS-CLI">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sathish1433&repo=JENKINS-CLI&theme=syntwave" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sathish1433&repo=JENKINS-CLI&theme=synthwave" />
       </a>
     </td>
   </tr>
