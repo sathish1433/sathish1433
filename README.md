@@ -81,7 +81,7 @@
   </a>
 
   <a href="https://asbait.netlify.app">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/globe.svg" width="40"/>
+    <img src="https://cdn-icons-png.flaticon.com/128/8087/8087627.png" width="40"/>
   </a>
 </p>
 
