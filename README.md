@@ -39,6 +39,7 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=sathish1433&repo=boto3_aws_automation&theme=react&show_owner=false&hide=description" />
       </a>
     </td>
+
     <td width="50%" align="center">
       <a href="https://github.com/sathish1433/python_app_cicd">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=sathish1433&repo=python_app_cicd&theme=react&show_owner=false&hide=description" />
@@ -46,14 +47,16 @@
     </td>
   </tr>
 
-  <tr><td colspan="2"><br></td></tr> <!-- row spacing -->
+  <!-- Row spacing -->
+  <tr><td colspan="2"><br><br></td></tr>
 
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/sathish1433/nginx">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sathish1433&repo=nginx&theme=tokyonight&description_lines=0" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sathish1433&repo=nginx&theme=react&show_owner=false&hide=description" />
       </a>
     </td>
+
     <td width="50%" align="center">
       <a href="https://github.com/sathish1433/JENKINS-CLI">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=sathish1433&repo=JENKINS-CLI&theme=react&show_owner=false&hide=description" />
@@ -61,6 +64,7 @@
     </td>
   </tr>
 </table>
+
 
 
 ---
