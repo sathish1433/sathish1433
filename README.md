@@ -34,12 +34,12 @@
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/sathish1433/boto3_aws_automation">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sathish1433&repo=boto3_aws_automation&theme=cobalt" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sathish1433&repo=boto3_aws_automation&theme=merko" />
       </a>
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/sathish1433/python_app_cicd">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sathish1433&repo=python_app_cicd&theme=dracula" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sathish1433&repo=python_app_cicd&theme=merko" />
       </a>
     </td>
   </tr>
@@ -50,7 +50,7 @@
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/sathish1433/nginx">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sathish1433&repo=nginx&theme=dark" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sathish1433&repo=nginx&theme=merko" />
       </a>
     </td>
     <td width="50%" align="center">
