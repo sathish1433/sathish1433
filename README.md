@@ -65,20 +65,20 @@
 
 ---
 ## 🔗 Social Profiles
-
 <p align="center">
-  <a href="https://github.com/sathish1433">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45">
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/sathish1433" target="_blank" style="margin-right:20px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" style="filter: invert(1);" />
+  </a>
 
-  <a href="https://www.linkedin.com/in/sathishanandhan">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="45" height="45">
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/sathishanandhan" target="_blank" style="margin-right:20px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
+  </a>
 
-  <a href="mailto:sathish.anandhan@zohomail.in">
-    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="45" height="45">
+  <a href="mailto:sathish.anandhan@zohomail.in" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" />
   </a>
 </p>
+
 
 
 ---
