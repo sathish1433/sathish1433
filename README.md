@@ -34,12 +34,12 @@
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/sathish1433/boto3_aws_automation">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sathish1433&repo=boto3_aws_automation&theme=tokyonight" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sathish1433&repo=boto3_aws_automation&theme=cobalt" />
       </a>
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/sathish1433/python_app_cicd">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sathish1433&repo=python_app_cicd&theme=tokyonight" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sathish1433&repo=python_app_cicd&theme=dracula" />
       </a>
     </td>
   </tr>
@@ -55,7 +55,7 @@
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/sathish1433/JENKINS-CLI">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sathish1433&repo=JENKINS-CLI&theme=tokyonight" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sathish1433&repo=JENKINS-CLI&theme=syntwave" />
       </a>
     </td>
   </tr>
