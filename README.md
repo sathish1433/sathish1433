@@ -77,13 +77,14 @@
   </a>
 
   <a href="mailto:sathish.anandhan@zohomail.in">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/minutemailer.svg" width="40"/>
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/minutemailer.svg" width="40"/>
   </a>
 
   <a href="https://asbait.netlify.app">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/globe.svg" width="40"/>
   </a>
 </p>
+
 
 ---
 
