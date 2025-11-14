@@ -3,7 +3,7 @@
 
 ---
 
-## 🚀 About Me
+<h1 align="center">🚀 About Me</h1>
 - 🔧 DevOps Engineer passionate about automation, cloud architecture, and infrastructure.
 - ☁️ Hands-on with AWS, Kubernetes, Docker, CI/CD, monitoring, and microservices.
 - 🐧 Strong background in Linux, shell scripting, and configuration management.
@@ -13,7 +13,7 @@
 
 ---
 
-## 🛠️ Skills & Technologies  
+<h1 align="center">🛠️ Skills & Technologies </h1>
 
 <p align="center" style="margin-bottom: 30px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" />
@@ -64,7 +64,7 @@
 </table>
 
 ---
-## 🤝 Connect With Me
+<h1 align="center">🤝 Connect With Me</h1>
 
 <table align="center">
   <tr>
