@@ -7,7 +7,6 @@
 - 🔧 DevOps & Cloud Engineer passionate about automation and scalable infra  
 - ☁️ Experienced with AWS, Kubernetes, Docker, CI/CD, GitOps  
 - 🐧 Linux lover — scripting & automation  
-- 🧪 Building real-time projects to grow stronger every day  
 - 🌐 Portfolio: https://asbait.netlify.app  
 - 💼 LinkedIn: https://www.linkedin.com/in/sathishanandhan  
 - 📧 Email: sathish.anandhan@zohomail.in  
@@ -16,42 +15,33 @@
 
 ## 🛠️ Skills & Technologies  
 
-<p align="center">
+<p align="center" style="margin-bottom: 30px;">
 
-<!-- Cloud -->
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="48" height="48" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="48" height="48" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="48" height="48" />
-
-<!-- DevOps -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="48" height="48" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="48" height="48" />
-
-<!-- Web Servers -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="48" height="48" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="48" height="48" />
-
-<!-- Languages -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" />
-
-<!-- Tools -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="48" height="48" style="margin:10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="48" height="48" style="margin:10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="48" height="48" style="margin:10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" style="margin:10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="48" height="48" style="margin:10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="48" height="48" style="margin:10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="48" height="48" style="margin:10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="48" height="48" style="margin:10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" style="margin:10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" style="margin:10px;" />
 </p>
 
 ---
 
 ## 📌 Top Repositories  
 
-<table align="center">
+<table align="center" style="border-spacing: 20px 20px;">
 <tr>
-<td align="center">
+<td align="center" style="padding: 20px;">
 <a href="https://github.com/sathish1433/boto3_aws_automation">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=sathish1433&repo=boto3_aws_automation&theme=tokyonight&hide_border=true" />
 </a>
 </td>
 
-<td align="center">
+<td align="center" style="padding: 20px;">
 <a href="https://github.com/sathish1433/python_app_cicd">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=sathish1433&repo=python_app_cicd&theme=tokyonight&hide_border=true" />
 </a>
@@ -59,13 +49,13 @@
 </tr>
 
 <tr>
-<td align="center">
+<td align="center" style="padding: 20px;">
 <a href="https://github.com/sathish1433/nginx">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=sathish1433&repo=nginx&theme=tokyonight&hide_border=true" />
 </a>
 </td>
 
-<td align="center">
+<td align="center" style="padding: 20px;">
 <a href="https://github.com/sathish1433/JENKINS-CLI">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=sathish1433&repo=JENKINS-CLI&theme=tokyonight&hide_border=true" />
 </a>
@@ -75,20 +65,21 @@
 
 ---
 
-## 🔗 Social Profiles
+## 🔗 Social Profiles  
+<p align="center" style="margin-top: 40px; margin-bottom: 40px;">
 
-<p align="center">
 <a href="https://github.com/sathish1433">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="40" height="40" style="margin: 0 20px;" />
 </a>
 
 <a href="https://www.linkedin.com/in/sathishanandhan">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="40" style="margin: 0 20px;" />
 </a>
 
 <a href="mailto:sathish.anandhan@zohomail.in">
-<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" height="40" />
+<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" height="40" style="margin: 0 20px;" />
 </a>
+
 </p>
 
 ---
