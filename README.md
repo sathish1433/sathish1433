@@ -4,12 +4,10 @@
 ---
 
 <h1 align="center">🚀 About Me</h1>
-- 🔧 DevOps Engineer passionate about automation, cloud architecture, and infrastructure.
-- ☁️ Hands-on with AWS, Kubernetes, Docker, CI/CD, monitoring, and microservices.
-- 🐧 Strong background in Linux, shell scripting, and configuration management.
-- 📚 Always learning and building real-time projects to grow as an engineer.
-
----
+- 🌍 Based in **Bangalore, India**
+- 🧠 Currently deep-diving into **Kubernetes, DevOps, and Cloud Architecture**
+- 🚀 Passionate about **Automation, Infrastructure as Code, Containers**
+- 🤝 Open to collaborating on **DevOps / Cloud / Automation Projects**
 
 ---
 
