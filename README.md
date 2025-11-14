@@ -69,21 +69,22 @@
 
 <p align="center">
   <a href="https://github.com/sathish1433">
-    <img src="https://cdn-icons-png.flaticon.com/128/733/733553.png" width="40"/>
+    <img src="https://cdn-icons-png.flaticon.com/128/733/733553.png" width="40" style="margin: 0 8px;"/>
   </a>
 
   <a href="https://www.linkedin.com/in/sathishanandhan">
-    <img src="https://cdn-icons-png.flaticon.com/128/1384/1384072.png" width="40"/>
+    <img src="https://cdn-icons-png.flaticon.com/128/1384/1384072.png" width="40" style="margin: 0 8px;"/>
   </a>
 
   <a href="mailto:sathish.anandhan@zohomail.in">
-    <img src="https://cdn-icons-png.flaticon.com/128/3925/3925147.png" width="40"/>
+    <img src="https://cdn-icons-png.flaticon.com/128/3925/3925147.png" width="40" style="margin: 0 8px;"/>
   </a>
 
   <a href="https://asbait.netlify.app">
-    <img src="https://cdn-icons-png.flaticon.com/128/8087/8087627.png" width="40"/>
+    <img src="https://cdn-icons-png.flaticon.com/128/8087/8087627.png" width="40" style="margin: 0 8px;"/>
   </a>
 </p>
+
 
 
 ---
