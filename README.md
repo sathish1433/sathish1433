@@ -30,38 +30,38 @@
 </p>
 
 ---
+## 📦 Top Repositories
 
-## 📌 Top Repositories  
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/sathish1433/boto3_aws_automation">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sathish1433&repo=boto3_aws_automation&theme=react" />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/sathish1433/python_app_cicd">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sathish1433&repo=python_app_cicd&theme=react" />
+      </a>
+    </td>
+  </tr>
 
-<table align="center" style="border-spacing: 20px 20px;">
-<tr>
-<td align="center" style="padding: 20px;">
-<a href="https://github.com/sathish1433/boto3_aws_automation">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sathish1433&repo=boto3_aws_automation&theme=tokyonight&hide_border=true" />
-</a>
-</td>
+  <tr><td colspan="2"><br></td></tr> <!-- row spacing -->
 
-<td align="center" style="padding: 20px;">
-<a href="https://github.com/sathish1433/python_app_cicd">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sathish1433&repo=python_app_cicd&theme=tokyonight&hide_border=true" />
-</a>
-</td>
-</tr>
-
-<tr>
-<td align="center" style="padding: 20px;">
-<a href="https://github.com/sathish1433/nginx">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sathish1433&repo=nginx&theme=tokyonight&hide_border=true" />
-</a>
-</td>
-
-<td align="center" style="padding: 20px;">
-<a href="https://github.com/sathish1433/JENKINS-CLI">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sathish1433&repo=JENKINS-CLI&theme=tokyonight&hide_border=true" />
-</a>
-</td>
-</tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/sathish1433/nginx">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sathish1433&repo=nginx&theme=react" />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/sathish1433/JENKINS-CLI">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sathish1433&repo=JENKINS-CLI&theme=react" />
+      </a>
+    </td>
+  </tr>
 </table>
+
 
 ---
 ## 🔗 Social Profiles
